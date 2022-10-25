@@ -1,4 +1,4 @@
-package one.digitalinnovation.parking.config;
+package dio.parking.config;
 
 import java.util.ArrayList;
 import java.util.Arrays;

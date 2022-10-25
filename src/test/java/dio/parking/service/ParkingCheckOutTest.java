@@ -1,4 +1,4 @@
-package one.digitalinnovation.parking.service;
+package dio.parking.service;
 
 import org.junit.jupiter.api.Test;
 

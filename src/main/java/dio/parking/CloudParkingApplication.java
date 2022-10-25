@@ -1,4 +1,4 @@
-package one.digitalinnovation.parking;
+package dio.parking;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

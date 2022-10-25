@@ -1,15 +1,15 @@
-package one.digitalinnovation.parking.service;
+package dio.parking.service;
 
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.UUID;
 
+import dio.parking.repository.ParkingRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import one.digitalinnovation.parking.exception.ParkingNotFoundException;
-import one.digitalinnovation.parking.model.Parking;
-import one.digitalinnovation.parking.repository.ParkingRepository;
+import dio.parking.exception.ParkingNotFoundException;
+import dio.parking.model.Parking;
 
 @Service
 public class ParkingService {

@@ -1,4 +1,4 @@
-package one.digitalinnovation.parking.controller;
+package dio.parking.controller;
 
 import org.testcontainers.containers.PostgreSQLContainer;
 
